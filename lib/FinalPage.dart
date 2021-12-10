@@ -55,7 +55,7 @@ class _FinalPageState extends State<FinalPage> {
                   width: 12,
                 ),
                 CircleAvatar(
-                  radius: 23,
+                  radius: 24,
                   backgroundImage: AssetImage('images/equal.png'),
                 ),
 
