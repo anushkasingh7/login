@@ -39,7 +39,7 @@ class _LoginPageState extends State<LoginPage> {
                   left: 25),
               child: Column(
                 children: [
-                  TextFormField(
+                  TextField(
                     decoration: InputDecoration(
                         fillColor: Colors.black38,
                         filled: true,
